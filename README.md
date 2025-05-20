@@ -2,3 +2,5 @@
 
 Домашнее задание по теме "Состояние компонентов"
 Портфолио с фильтрами
+
+https://deniskomov.github.io/ra16-homeworks-events_state_filter/
